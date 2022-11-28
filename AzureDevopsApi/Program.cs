@@ -8,7 +8,7 @@ namespace AzureDevopsApi
     static class Azure
     {
         public const string BASE= "https://dev.azure.com";
-        public const string PAT = "ggbdmg74fkizi5q6e2xlwyhkvq6uxctvd33kv6nchgx6m42c7l7a";
+        public const string PAT = "****************************************";
         public const string ORG = "ariqt";
         public const string PROJECT = "interns";
         public const string API= "api-version=7.0";
