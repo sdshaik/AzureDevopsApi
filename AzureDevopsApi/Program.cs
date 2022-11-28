@@ -1,10 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
-using System.Text;
-using System.Threading.Tasks;
 using Newtonsoft.Json;
-using System.Net.Http;
 using System.Net.Http.Headers;
+using System.Text;
 
 namespace AzureDevopsApi
 {
