@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GetWorkItems
 {
-
+    //https://dev.azure.com/{organization}/{project}/_apis/wit/workitems?ids={ids}&api-version=7.0
     class Program
     {
         public class WorkItemsList
