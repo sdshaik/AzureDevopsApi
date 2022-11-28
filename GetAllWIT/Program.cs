@@ -25,7 +25,7 @@ namespace GetWorkItems
         static class Azure
         {
             public const string BASE = "https://dev.azure.com";
-            public const string PAT = "3ljqhiwlkowddiqscp2xd6nd3rwfs2g6vs5yfaeg2kcdzsgi264a";
+            public const string PAT = "***************************************";
             public const string ORG = "ariqt";
             public const string API = "api-version=7.0";
             public const string PROJECT = "interns";
